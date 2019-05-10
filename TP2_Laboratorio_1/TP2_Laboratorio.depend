@@ -1,0 +1,43 @@
+# depslib dependency file v1.0
+1556643242 source:c:\users\los fierros\desktop\tp2_laboratorio\pedirdatos.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+
+1557190836 source:c:\users\los fierros\desktop\tp2_laboratorio\main.c
+	"ArrayEmployees.h"
+	"PedirDatos.h"
+
+1557189122 c:\users\los fierros\desktop\tp2_laboratorio\arrayemployees.h
+	<stdio.h>
+	<stdlib.h>
+
+1556641145 c:\users\los fierros\desktop\tp2_laboratorio\pedirdatos.h
+
+1557190836 source:c:\users\los fierros\desktop\tp2_laboratorio\arrayemployees.c
+	"ArrayEmployees.h"
+	"PedirDatos.h"
+	<string.h>
+
+1557503019 source:c:\users\los fierros\desktop\progra-y-lab-1\tp2_laboratorio\arrayemployees.c
+	"ArrayEmployees.h"
+	"PedirDatos.h"
+	<string.h>
+
+1557502867 c:\users\los fierros\desktop\progra-y-lab-1\tp2_laboratorio\arrayemployees.h
+	<stdio.h>
+	<stdlib.h>
+
+1557502867 c:\users\los fierros\desktop\progra-y-lab-1\tp2_laboratorio\pedirdatos.h
+
+1557503041 source:c:\users\los fierros\desktop\progra-y-lab-1\tp2_laboratorio\main.c
+	"ArrayEmployees.h"
+	"PedirDatos.h"
+
+1557287490 source:c:\users\los fierros\desktop\progra-y-lab-1\tp2_laboratorio\pedirdatos.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+
